@@ -152,4 +152,5 @@ cache/
 *.ogg
 
 # huggingface autotrain models
-notebooks/autotrain-bert-ex-qa1/
+SQUAD-QA/acs_md
+
